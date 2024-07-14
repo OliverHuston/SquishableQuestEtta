@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f341258962d8caf42b98abcc9c289256, type: 3}
+  m_Name: Lost Letters 1
+  m_EditorClassIdentifier: 
+  name: Lost Letters 1
+  acquired: 1
+  unread: 1
+  displayedTitle: I.
+  text: "Sir Grenactorius, honorable knight of the Brotherhood of the Sunflower,
+    to his majesty King Onosdacer of the Atronne.\r\n\tMy king, may you take it not
+    ill that my congratulations on your coronation have come perhaps later than most,
+    for you surely understand that the question of the kingship was for a long time
+    plunged in uncertainty whether the crown would pass to a sworn brother of the
+    Sunflower or a brother of the First Spring. But it has passed unto the latter,
+    you, my king, and not unto the noble Sir Vaunin, my brother by oath; the Sphere
+    and Squish have shown us their will for this time, and thus I bow before your
+    royal head.\r\nI hail thee king! My son, the honorable Sir Golo, hails thee king!
+    The knights and armsmen of Castle Cras hail thee king! Blessed by thy reign and
+    long. Be it free from faction and dissention among the Brotherhoods and may the
+    divine gifts of the gods rain upon every head in the land! \r\nSent by pidgeon
+    on St. Tosten\u2019s Eve, Fall of the year 398.\r\n\r\n"

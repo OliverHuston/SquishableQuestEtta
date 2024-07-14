@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f341258962d8caf42b98abcc9c289256, type: 3}
+  m_Name: Cities of the World 1
+  m_EditorClassIdentifier: 
+  name: Cities of the World 1
+  acquired: 1
+  unread: 1
+  displayedTitle: I. Sanctuary
+  text: "Sanctuary is the center of the Sphero-Squishian religion, founded around
+    the Holy Mount on the shores of the Voracine Sea. More than four centuries ago,
+    on New Year\u2019s Day, the Fourth Prophet deposited the Tome of Revelation in
+    a cave on the slopes of the Mount and subsequently vanished from the earth. This
+    event marked the foundation of the new religion of the Great Sphere and Squish
+    United and the first year of the new calendar (1 SC). The site attracted many
+    pilgrims from the surrounding area and a Sanctuary for the faithful was formally
+    consecrated by the new Knightly and Priestly Orders of the Sphere and Squish
+    in 54 SC. \n\tMany of the first inhabitants of Sanctuary were refugees from the
+    Second War of the Cats, at the conclusion of which Sabre IV pledged to uphold
+    the autonomy of the holy city. As the result of successful missions to the North
+    at the end of the 1st century SC, Sanctuary soon became an important destination
+    for pilgrims from as far as Mousepile and the Istis river valley. Since the unification
+    on the Knightly and Priestly Orders at the end of the First Crusade, the Archpriest
+    of the Grand Synod has been the official ruler of the Sanctuary and wields enormous
+    influence over the crusader kingdoms.\r\nToday, the Holy Mount is covered with
+    shrine and temples while the lower valley is filled with countless inns for pilgrims.
+    Sanctuary also boasts a sprawling market selling religious trinkets and an active
+    port."

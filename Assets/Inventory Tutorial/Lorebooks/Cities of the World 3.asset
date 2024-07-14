@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f341258962d8caf42b98abcc9c289256, type: 3}
+  m_Name: Cities of the World 3
+  m_EditorClassIdentifier: 
+  name: Cities of the World 3
+  acquired: 0
+  unread: 1
+  displayedTitle: III. Istia
+  text: "Istia is the capital of the great northern empire of the moose. In the 15th
+    century BSC, the ancient moose clans migrated west, filling the vacuum left by
+    the retreat of the bear tribes and introducing iron-working to the North. By
+    the end of the 8th century, the moose had migrated further west beyond South
+    Pass and driven the reindeer out of the Istis river valley, where they founded
+    the fortress city of Istia high in the mountains.\n\tThe moose of Istia are renowned
+    for their skill as smiths and have proven formidable opponents, bringing even
+    the warlike bears of Geom under their power as a client state. Their territory
+    has also grown to include Graslan in the lower Istis valley and Sylvitos in the
+    woodlands south of Bergen Pass. Despite their growing wealth and political influence,
+    the moose kings maintain their ancient martial traditions. It is said that the
+    heir to throne must prove their worth by lifting the Great Mace, an ancestral
+    weapon rumored to weigh several hundred pounds, or lose their place to a worthier
+    successor."

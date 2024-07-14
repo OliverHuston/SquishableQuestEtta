@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56c77a957bb5e8649bb820df8c6c4e6e, type: 3}
+  m_Name: HealthStatusData
+  m_EditorClassIdentifier: 
+  charName: name
+  charClass: Paladin
+  level: 44
+  xp: 0
+  maxhp: 0
+  hp: 10
+  base_spd: 50
+  base_atk: 0
+  base_def: 0
+  base_rec: 0
+  base_pty: 0
+  spd: 124
+  atk: 21
+  def: 1
+  rec: 10
+  pty: 40

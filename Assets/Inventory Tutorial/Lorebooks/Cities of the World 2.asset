@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f341258962d8caf42b98abcc9c289256, type: 3}
+  m_Name: Cities of the World 2
+  m_EditorClassIdentifier: 
+  name: Cities of the World 2
+  acquired: 0
+  unread: 1
+  displayedTitle: II. Agros
+  text: "Agros is the capital of the Saberian kingdom, founded in the fertile land
+    along the eastern shores of the Voracine Sea. Its favorable position on the overland
+    route from the North to Myriolan has made King Sabre VII fabulously wealthy.
+    But with this new prosperity, the formerly war-like sabres have developed a reputation
+    for luxury and vice.\n\tThe territory of Agros in ancient times was called Faelin,
+    or the \u201CLand of the Cats,\u201D for its large feline population. The original
+    inhabitants were gradually driven out following the unification of the sabre
+    tribes in the 5th century BSC. By the end of the Second War of the Cats in the
+    1st century SC, the sabres had seized the whole of Faelin and secured the lions
+    and elephants of the savannah as their vassals. \r\nAround this time, Sabre IV
+    \u2018the Pious\u2019 pledged to uphold the eternal autonomy of Sanctuary and
+    the newly-founded Order. Although his famous piety was likely prompted by the
+    mysterious sudden death of Sabre III as he was setting out for war against Sanctuary,
+    all subsequent Sabre kings have upheld the pledge."

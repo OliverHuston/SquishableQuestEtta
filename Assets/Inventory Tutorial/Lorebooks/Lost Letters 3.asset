@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f341258962d8caf42b98abcc9c289256, type: 3}
+  m_Name: Lost Letters 3
+  m_EditorClassIdentifier: 
+  name: Lost Letters 3
+  acquired: 0
+  unread: 1
+  displayedTitle: III.
+  text: "The resolution of the Council of Eight, made after deliberation at the 791st
+    session of the New Council having met at Gharna, bearing the blessed assent of
+    the Holy Idols:\n\tLet these words be sent into the lands of the unbelievers
+    and spoken before the King Onosdacer: In old times, unbeliever bore sword against
+    believer and believer against unbeliever, but now peace is in the lands and by
+    common compact all swords be sheathed. Yet this Council complains that the King
+    Onosdacer has conducted himself dishonorably when he let the lawless peoples
+    of the desert pass through his land unmolested and come into the lands of the
+    believers to strike at sacred heads. For, we say, the tribesmen of the desert
+    do not respect the Holy Idols nor do they share in your same unbelief but rather
+    do service to the ancient powers of Old Etta. Their curses and swords shall bring
+    no peace to the King Onosdacer or to the Council of Eight; therefore, let these
+    evil-doers be slain wherever they be seen or even sought out to be righteously
+    slaughtered, and let them no more pass through the King\u2019s lands with impunity.
+    These are the matters the Council has decreed be spoken in the presence of King
+    Onosdacer and his knights that they may be considered and agreed to in the presence
+    of his court."

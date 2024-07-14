@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f341258962d8caf42b98abcc9c289256, type: 3}
+  m_Name: Lost Letters 2
+  m_EditorClassIdentifier: 
+  name: Lost Letters 2
+  acquired: 1
+  unread: 1
+  displayedTitle: II.
+  text: "Plithius Runius, Quartermaster General of Fort Munnis, to the Grandmaster
+    of the Brotherhood of Dawn at Mesia.\n\tI beseech your eminence to speak in his
+    heaven-sent voice against a terrible storm of ills which has befallen the knightly
+    garrison of Fort Munnis. For, as it long has been, merchants plying their trade
+    do often bring their wares to sell in our keep and thus supply the knights and
+    men-at-arms with many necessities. But, your eminence, with the stern hand of
+    Necessity does come also the beguiling touch of Luxury, and of the luxuries brought
+    by merchants, there is none so fearsome as that pernicious novelty called \u201CKing
+    Sabre\u2019s Delight.\u201D\n\tThis confection, you may know, is in its greatest
+    part composed of cake, yellow in color and rather spongey, much endowed with
+    the sweetness of sugar and the richness of butter. But yet within this body,
+    there is a cavity, a certain hollow or cave, into which the bakers pour a soft
+    cream. Thus, to the one enjoying the cake, the inner cream appears all of a sudden,
+    much to their delight, and in this way, completely overwhelms even the souls
+    most fortified against temptations.\n\tThough this \u201Cdelight\u201D may be
+    suited to the gentle and luxurious lands of King Sabre, it is by no means fitting
+    for the knights of this garrison. For while it has an attractive taste and appearance,
+    the cake lacks all wholesome succor which is necessary for a holy knight, providing
+    only the sweetness of its false promise. I am greatly reminded of the parable
+    of heron and the empty mollusk shell and have given it much study as of late.
+    Let us be now like the heron who flies at last to sea, abandoning its vain pursuits.
+    May you banish these \u201CDelights of King Sabre\u201D from all the lands of
+    the Brotherhood, just as is banished the seditious plotter, whose presence corrupts
+    the hearts of the people. Your eminence, I beseech you by your knees, free our
+    bodies from this pestilence and, thus too, our souls.\n\tSent from Fort Munnis
+    by swift messenger on the Springtime Feast of St. Dor, in the year 433 by Corsan
+    Reckoning."
