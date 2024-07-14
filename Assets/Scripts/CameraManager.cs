@@ -5,7 +5,7 @@ using UnityEngine;
 public class CameraManager : MonoBehaviour
 {
     public GameObject mainCamera;
-    public GameObject mapCamera;
+    //public GameObject mapCamera;
     public GameObject equipmentViewCamera;
 
     public bool map;
@@ -39,11 +39,11 @@ public class CameraManager : MonoBehaviour
     private void FixedUpdate()
     {
         if (canvasController.Inventory.activeInHierarchy) {
-            mapCamera.SetActive(map);
+            //mapCamera.SetActive(map);
             equipmentViewCamera.SetActive(true);
         }
         else {
-            mapCamera.SetActive(false);
+            //mapCamera.SetActive(false);
             equipmentViewCamera.SetActive(false);
         }
     }
