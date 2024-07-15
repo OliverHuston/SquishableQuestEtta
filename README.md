@@ -2,8 +2,7 @@
 
 
 # Models Needed
-- stairs
-- rock scatter
 - grass scatter
-- palm tree
 - palm tree planter
+- baked chest 
+- baked scroll
